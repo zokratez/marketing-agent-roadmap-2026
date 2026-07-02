@@ -1,16 +1,15 @@
-# Sam's Marketing Agent Roadmap 2026
+# Sam's AI Marketing Agent Roadmap 2026
 
-I am following the full roadmap to build AI agents for marketing.
+I am building AI agents for marketing my Paco Peptide store (bilingual English/Spanish for USA/Mexico).
 
-Current progress:
-- Phase 0: Mental model done ✅
-- Phase 1-4: Research, Spy, Harness, Eval tools built and pushed ✅
-- Tools already made for Paco Peptide (bilingual USA/Mexico store)
+Tools I built:
+- Research agent that finds trends
+- Competitor spy that gives counter ideas
+- Harness and eval tools
+- Production agent that generates campaigns
 
-Next: Phase 5 production version and deployable agents.
+All code is in the repo. I follow the full 2026 agent roadmap with Grok as teacher.
 
-See the code in the folders — I can build agents that research trends, spy on competitors, generate campaigns, and save plans.
+Goal: Deployable agents that help sell more products.
 
-Contact: ooabisabi on X or Sam O
-
-Built with Grok as teacher.
+Contact: ooabisabi on X | Ready for AI marketing roles or freelance.
