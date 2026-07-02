@@ -1,0 +1,1 @@
+Full campaign plan would go here - you now have a harness that saves outputs!
